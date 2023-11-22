@@ -16,6 +16,12 @@
   position: relative;
 }
 
+.gridItem {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
 .content {
   width: 175px;
   height: 175px;
